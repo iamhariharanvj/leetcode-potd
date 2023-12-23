@@ -20,6 +20,7 @@ public:
                     y--;
                     break;
             }
+         
             string key = to_string(x)+","+to_string(y); 
             if(++points[key]>1) return true;
         }
