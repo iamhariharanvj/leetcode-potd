@@ -13,7 +13,6 @@ public:
             if(s[i]=='1') right_ones--;
             max_score = max(max_score, left_zeros+right_ones);
         }
-
         return max_score;
     }
 };
