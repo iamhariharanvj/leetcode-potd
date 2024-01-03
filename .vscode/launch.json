@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/hariharanvj/Desktop/Projects/leetcode-potd/02-01-24",
-      "program": "/home/hariharanvj/Desktop/Projects/leetcode-potd/02-01-24/build/Debug/outDebug",
+      "cwd": "/home/hariharanvj/Desktop/Projects/leetcode-potd/03-01-24",
+      "program": "/home/hariharanvj/Desktop/Projects/leetcode-potd/03-01-24/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
